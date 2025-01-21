@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Margins and Padding -->
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="margin_xlarge">24dp</dimen>
+    <dimen name="margin_xxlarge">32dp</dimen>
+
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_xlarge">24dp</dimen>
+
+    <!-- Text sizes -->
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_large">16sp</dimen>
+    <dimen name="text_size_xlarge">18sp</dimen>
+    <dimen name="text_size_xxlarge">20sp</dimen>
+    <dimen name="text_size_heading">24sp</dimen>
+
+    <!-- Component specific dimensions -->
+    <dimen name="toolbar_elevation">4dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_corner_radius">8dp</dimen>
+    <dimen name="button_height">56dp</dimen>
+    <dimen name="button_corner_radius">8dp</dimen>
+    <dimen name="button_min_width">120dp</dimen>
+
+    <!-- Image dimensions -->
+    <dimen name="restaurant_image_height">200dp</dimen>
+    <dimen name="menu_item_image_size">100dp</dimen>
+    <dimen name="cart_item_image_size">80dp</dimen>
+
+    <!-- List item dimensions -->
+    <dimen name="list_item_height">72dp</dimen>
+    <dimen name="list_item_vertical_margin">8dp</dimen>
+    <dimen name="list_item_horizontal_margin">16dp</dimen>
+
+    <!-- Divider -->
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="divider_margin">8dp</dimen>
+
+    <!-- FAB -->
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
