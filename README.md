@@ -101,7 +101,7 @@ app/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/food-ordering-app.git
+git clone https://github.com/DAISHINKAN7/Front-End-ProjectSubmission.git
 ```
 
 2. Open Android Studio and select "Open an existing Android Studio project"
@@ -199,10 +199,8 @@ The project includes both unit tests and UI tests:
    - Payment gateway integration
    - Order tracking
    - Push notifications
+   - Could make sure different images be integrated for different dishes
 
-## Screenshots
-
-[Include screenshots of key screens here]
 
 ## Contributing
 
@@ -224,5 +222,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-Project Link: [https://github.com/yourusername/food-ordering-app](https://github.com/yourusername/food-ordering-app)
+Your Name - [kunalajgaonkar31682@gmail.com](mailto:your.email@example.com)
+Project Link: [https://github.com/DAISHINKAN7/Front-End-ProjectSubmission.git](https://github.com/yourusername/food-ordering-app)
